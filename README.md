@@ -289,4 +289,6 @@ Using environment variables to store information is considered more secure and b
 node index.js
 ```
  You shall see a message ‘Database connected successfully’, if so – we have our backend configured. Now we are going to test it.
+ ![Screenshot (75)](https://user-images.githubusercontent.com/111396874/206548537-878edac5-75b7-4517-b423-02eb999172d7.png)
+
 
